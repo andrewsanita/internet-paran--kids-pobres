@@ -77,8 +77,9 @@ header{
     align-content: center;
 }
 
-.doe {
-    background-color: aqua;
+element.style {
+    background-color: blue;
+    padding: 12px;
 }
 
 footer{
