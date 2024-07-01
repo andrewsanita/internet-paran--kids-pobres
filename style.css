@@ -28,6 +28,7 @@ header{
     font-size: 25px;
 }
 
+
 .azul a{
     color: black;
     padding: 10px;
@@ -70,8 +71,7 @@ header{
 .manuel-gomes-azuis{
     display: grid;
     text-align: center;
-    grid-template-columns: 33% 33% 33%;
-    margin-left: 100px;
+width: 100px;
 }
 
 footer{
