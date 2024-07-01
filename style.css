@@ -68,10 +68,13 @@ header{
 .ft_integrante{
     width: 40%;
 }
-.manuel-gomes-azuis{
+.manuel-gomes-azuis {
     display: grid;
     text-align: center;
-width: 100px;
+    width: 1610px;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
 }
 
 footer{
