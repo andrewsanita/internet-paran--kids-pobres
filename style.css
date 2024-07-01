@@ -42,7 +42,7 @@ header{
 
 #intro{
     display: flex;
-    background-color: #ffffff;
+    background-color: #707070;
     margin: 20px;
     margin-left: 100px;
     padding: 40px ;
@@ -52,7 +52,7 @@ header{
 
 .img-intro{
     width: 100%;
-    
+
 }
 
 #equipe{
