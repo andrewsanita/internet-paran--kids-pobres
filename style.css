@@ -77,9 +77,9 @@ header{
     align-content: center;
 }
 
-element.style {
+.butao {
     background-color: blue;
-    padding: 12px;
+    padding: 12;
 }
 
 footer{
