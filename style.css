@@ -69,12 +69,6 @@ header{
     width: 40%;
 }
 .manuel-gomes-azuis {
-    background-color: blue;
-    display: grid;
-    justify-items: center;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
 }
 .doe {
     background-color:blue;
