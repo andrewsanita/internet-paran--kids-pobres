@@ -18,7 +18,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color:#00C2FF;
+    background-color:#666666;
 
 }
 
@@ -42,7 +42,7 @@ header{
 
 #intro{
     display: flex;
-    background-color: #afafaf;
+    background-color: #ffffff;
     margin: 20px;
     margin-left: 100px;
     padding: 40px ;
@@ -52,6 +52,7 @@ header{
 
 .img-intro{
     width: 100%;
+    
 }
 
 #equipe{
