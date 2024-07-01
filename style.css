@@ -25,16 +25,19 @@ header{
 .equipe a{
     color: rgb(0, 0, 0);
     padding: 10px;
+    font-size: 10px;
 }
 
 .azul a{
     color: black;
     padding: 10px;
+    font-size: 10px;
 }
 
 .vermelhos a{
     color: black;
     padding: 10px;
+    font-size: 10px;
 }
 
 #intro{
