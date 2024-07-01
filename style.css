@@ -1,0 +1,84 @@
+:root{
+    --azulcaneta: #ffffff;
+}
+
+body{
+    background-color: var(--azulcaneta);
+
+}
+
+
+
+img{ 
+    width: 40%;
+} 
+header{
+    font-size: 20px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:#00C2FF;
+
+}
+
+.equipe a{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.azul a{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+}
+
+.vermelhos a{
+    color: white;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+}
+
+#intro{
+    display: flex;
+    background-color: #afafaf;
+    margin: 20px;
+    margin-left: 100px;
+    padding: 40px ;
+    font-size: 27px;
+
+}
+
+.img-intro{
+    width: 100%;
+}
+
+#equipe{
+    text-align: center;
+}
+
+.integrantes{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.ft_integrante{
+    width: 40%;
+}
+.manuel-gomes-azuis{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 33% 33% 33%;
+    margin-left: 100px;
+}
+
+footer{
+    background-color: antiquewhite;
+    color: black;
+}
+
+header a{
+    color: black;
+    text-decoration: none;
+}
