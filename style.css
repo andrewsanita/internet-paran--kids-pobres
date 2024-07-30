@@ -70,7 +70,8 @@ header{
 }
 .img{
     width: 40%;
-justify-self: center;
+display: grid;
+margin-left: 135px;
 
 }
 
